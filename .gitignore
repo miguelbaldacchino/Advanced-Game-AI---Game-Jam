@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GameJam/Content/MetaHuman/Pawlu/Pawlu.uasset
+GameJam/Content/MetaHuman/Tina/Tina.uasset
+GameJam/Content/MetaHumans/Tina/Face/SKM_Tina_FaceMesh.uasset
+GameJam/Content/MetaHumans/Pawlu/Face/SKM_Pawlu_FaceMesh.uasset
