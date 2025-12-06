@@ -58,6 +58,10 @@
 		{
 			"Name": "Sample_CityKit",
 			"Enabled": true
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false
 		}
 	]
 }
