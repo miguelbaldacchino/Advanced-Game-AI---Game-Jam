@@ -50,6 +50,10 @@
 		{
 			"Name": "AnimationLocomotionLibrary",
 			"Enabled": true
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false
 		}
 	]
 }
