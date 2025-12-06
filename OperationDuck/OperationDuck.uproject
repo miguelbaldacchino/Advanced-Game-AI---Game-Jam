@@ -54,6 +54,10 @@
 		{
 			"Name": "Bridge",
 			"Enabled": false
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
 		}
 	]
 }
